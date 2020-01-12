@@ -37,4 +37,4 @@ Use the following command to solve the specified puzzle:
 
 The solution for the sudoku will be written in a plain text file, <i>output.txt</i>, specifying the algorithm that was used to solve the problem.
 
-For more example check the <i>sudokus_start.txt</i> and <i>sudokus_finish.txt</i> files.
+For more example check the <i>data/sudokus_start.txt</i> and <i>data/sudokus_finish.txt</i> files.
